@@ -1,0 +1,20 @@
+{
+  "courses": [
+    {
+      "_id": "6ac1bf69ca593659f659890f",
+      "title": "Next.js & React Fullstack",
+      "description": "Curso completo de desarrollo web moderno",
+      "price": 99,
+      "createdAt": "2026-10-04T02:52:25.853Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ac1bf69ca593659f6598910",
+      "title": "MongoDB & Mongoose Master",
+      "description": "Aprende bases de datos NoSQL desde cero",
+      "price": 79,
+      "createdAt": "2026-10-04T02:52:25.857Z",
+      "__v": 0
+    }
+  ]
+}
